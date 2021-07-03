@@ -1,0 +1,45 @@
+body {
+    text-align: center;
+    background-color: #76FF03;
+
+}
+
+p {
+    color: #03A9F4;
+    font-size: 35px;
+}
+
+h3 {
+    color: #D50000;
+    font-size: 30px;
+}
+
+menu {
+    font-family: sans-serif;
+    position: fixed;
+    top: 0px;
+    z-index: 10;
+    background: #ccff00;
+    width: 100%;
+    margin-top: 0px;
+
+}
+
+.links {
+    display: inline;
+    color: #fff;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family: fantasy;
+    font-size: 20px;
+}
+
+.links:hover {
+    background-color: #fa0000;
+}
+
+h4 {
+    font-size: 30px;
+}
